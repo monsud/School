@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfStudents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <Student>
+      <Name>Lorenzo</Name>
+      <Surname>Insigne</Surname>
+      <Number>N4959</Number>
+    </Student>
+    <Student>
+      <Name>Ciro</Name>
+      <Surname>Mertens</Surname>
+      <Number>N46503</Number>
+    </Student>
+    <Student>
+      <Name>David</Name>
+      <Surname>Ospina</Surname>
+      <Number>N60032</Number>
+    </Student>
+    <Student>
+      <Name>Alex</Name>
+      <Surname>Meret</Surname>
+      <Number>N64670</Number>
+    </Student>
+  </Students>
+</ListOfStudents>

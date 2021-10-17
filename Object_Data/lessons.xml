@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListOfLessons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lessons>
+    <Lesson>
+      <Descr>Introduction to Signal Theory</Descr>
+      <Date>2020-10-25T00:00:00</Date>
+      <StartTime>10</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+    <Lesson>
+      <Descr>PDF and CDF</Descr>
+      <Date>2020-10-28T00:00:00</Date>
+      <StartTime>8</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+    <Lesson>
+      <Descr>Query and trigger</Descr>
+      <Date>2020-10-26T00:00:00</Date>
+      <StartTime>8</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+    <Lesson>
+      <Descr>Newton's Law</Descr>
+      <Date>2020-10-24T00:00:00</Date>
+      <StartTime>12</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+    <Lesson>
+      <Descr>Termodynamic</Descr>
+      <Date>2020-11-03T00:00:00</Date>
+      <StartTime>8</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+  </Lessons>
+</ListOfLessons>

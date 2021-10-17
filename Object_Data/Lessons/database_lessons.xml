@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfLessons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lessons>
+    <Lesson>
+      <Descr>Query and trigger</Descr>
+      <Date>2020-10-26T00:00:00</Date>
+      <StartTime>8</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+    <Lesson>
+      <Descr>DMBS Relational</Descr>
+      <Date>2020-11-11T00:00:00</Date>
+      <StartTime>10</StartTime>
+      <Duration>2</Duration>
+      <Students />
+    </Lesson>
+  </Lessons>
+</ListOfLessons>

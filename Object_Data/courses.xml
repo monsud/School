@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListOfCourses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Courses>
+    <Course>
+      <Name>Signal Theory</Name>
+      <Edition>2020</Edition>
+      <Lessons />
+      <Students />
+    </Course>
+    <Course>
+      <Name>Physic 1</Name>
+      <Edition>2019</Edition>
+      <Lessons />
+      <Students />
+    </Course>
+    <Course>
+      <Name>Database</Name>
+      <Edition>2020</Edition>
+      <Lessons />
+      <Students />
+    </Course>
+  </Courses>
+</ListOfCourses>
