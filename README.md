@@ -17,14 +17,13 @@ Mark those absent from a lesson
 
 The system must allow the following screen printouts:
 
-Course List DONE!
-List of lessons of a course
-List of students enrolled in a course
-Summary sheet of a lesson
-List of those present at a lesson
-
-Average attendance at a lesson
-Average attendance at a course (average between lessons)
-Percentage of attendance of a student in a course (course input, freshman)
-List of courses to which a student is enrolled (matriculation input)
-Average of students enrolled in courses
+-Course List 
+-List of lessons of a course
+-List of students enrolled in a course
+-Summary sheet of a lesson
+-List of those present at a lesson
+-Average attendance at a lesson
+-Average attendance at a course (average between lessons)
+-Percentage of attendance of a student in a course (course input, freshman)
+-List of courses to which a student is enrolled (matriculation input)
+-Average of students enrolled in courses
